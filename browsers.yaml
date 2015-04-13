@@ -1,3 +1,7 @@
+- !ruby/object:Browser 
+  name: 'internet_explorer'
+  version: '8'
+  platform: 'Windows XP'
 --- 
 - !ruby/object:Browser 
   name: 'firefox'
